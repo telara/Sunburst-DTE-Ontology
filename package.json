@@ -1,0 +1,14 @@
+{
+  "name": "@knowledge-web/sunburst-dte-ontology",
+  "main": "bb19d26c6605f317@697.js",
+  "version": "697.0.0",
+  "homepage": "https://observablehq.com/@knowledge-web/sunburst-dte-ontology",
+  "author": {
+    "name": "knowledge web",
+    "url": "https://observablehq.com/@knowledge-web"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
